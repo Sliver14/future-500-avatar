@@ -589,7 +589,7 @@ Template Name: Avatar Generator
   </main>
 
   <footer>
-    <p>&copy; 2026 Nova Missions</p>
+    <p>&copy; 2026 Nova Tribe. All rights reserved.</p>
   </footer>
 </div>
 
