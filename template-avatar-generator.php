@@ -589,7 +589,7 @@ Template Name: Avatar Generator
   </main>
 
   <footer>
-    <p>&copy; 2026 Event Avatar Generator. Built with &hearts; using HTML, CSS, and JavaScript.</p>
+    <p>&copy; 2026 Nova Missions</p>
   </footer>
 </div>
 
